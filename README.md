@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       <a href="https://www.youtube.com/watch?v=R0DIJ43FIp0"><img width="140px" src="https://i.ytimg.com/vi/R0DIJ43FIp0/mqdefault.jpg"></a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=TbISzUdwsXU">Assembling Get Away by De La Soul</a> (Feb 17, 2025)<br/>
+      <a href="https://www.youtube.com/watch?v=R0DIJ43FIp0">Assembling Get Away by De La Soul</a> (Feb 17, 2025)<br/>
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
       <a href="https://www.youtube.com/watch?v=24fjKn87tmk"><img width="140px" src="https://i.ytimg.com/vi/24fjKn87tmk/mqdefault.jpg"></a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=TbISzUdwsXU">React Native Skia Gradient Paths Demo</a> (Jan 26, 2024)<br/>
+      <a href="https://www.youtube.com/watch?v=24fjKn87tmk">React Native Skia Gradient Paths Demo</a> (Jan 26, 2024)<br/>
     </td>
   </tr>
   
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
       <a href="https://www.youtube.com/watch?v=i9X41tQZbgc"><img width="140px" src="https://i.ytimg.com/vi/i9X41tQZbgc/mqdefault.jpg"></a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=TbISzUdwsXU">React Native Skia Tile Experiment</a> (Nov 6, 2024)<br/>
+      <a href="https://www.youtube.com/watch?v=i9X41tQZbgc">React Native Skia Tile Experiment</a> (Nov 6, 2024)<br/>
     </td>
   </tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
