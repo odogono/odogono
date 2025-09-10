@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 
 
 
-[LinkedIn](https://www.linkedin.com/in/alexanderveenendaal/) | [Bluesky](https://bsky.app/profile/odogono.bsky.social) | [Twitter](https://x.com/odogono) | [Website](http://dev.odgn.net)
+[LinkedIn](https://www.linkedin.com/in/alexanderveenendaal/) | [Bluesky](https://bsky.app/profile/odogono.bsky.social) | [Twitter](https://x.com/odogono) | [Website](http://opendoorgonorth.com)
