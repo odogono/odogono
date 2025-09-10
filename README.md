@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -->
 
 - ✨ Shipped [VO Pads](https://vo.odgn.net)
-- 🔭 Looking for new work!
 
 
 ---
